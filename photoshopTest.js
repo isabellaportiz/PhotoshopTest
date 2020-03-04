@@ -2,5 +2,5 @@
 /*global $, window, location, CSInterface, SystemPath, themeManager*/
 
 function heythere() {
-    alert("Wassssup");
+    alert("Private, and ..... working?");
 }
